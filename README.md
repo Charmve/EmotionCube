@@ -6,9 +6,6 @@ Taking emotion analysis and intelligent speech as the research object, in order 
 - <p><b>Intelligent Voice Module</b>: intelligent speech based on FPGA, Microphone</p>
 - <p><b>Full-color Light-cube Display System</b>: Including power switch circuit, control circuit and cascade drive circuit, and leave enough space to expand subsequent circuits.Especially, this display system come from my another projects: <a href="https://github.com/Charmve/Design-of-a-3D-Dynamic-Display-System-Based-on-Voice-Control" target="_blank">Design-of-a-3D-Dynamic-Display-System-Based-on-Voice-Control</a></p>
 
-
-![PNG](./02_Pictures/EmotionCube.jpg)
-
 <div align=center><img src="./02_Pictures/EmotionCube.jpg"></div>
 <p align="center"><b>Emotion Cube</b></p>
 
@@ -42,8 +39,8 @@ surroundings. Specifically in:
 
 To put it simply, facial expressions are part of the human body's (physical) language, which is a physical and psychological response, usually used to convey emotions. There are many kinds of human facial expressions. At present, the recognition of the six basic human expressions of happiness, surprise, sadness, anger, disgust and fear is relatively good. Facial expressions can be recognized better, and signs and commands are given to control people. The machine interactive device completes the corresponding action. Due to the complexity of human emotions, these expressions are not enough to fully determine the emotional fluctuations in a person's heart. To improve the accuracy of judgment, it is necessary to pass comprehensive evaluations such as heart rate detection and voice processing.
 
-<p align="center"> ![PNG](./02_Pictures/ExpressionRecognition.jpg)
-Figure 1. The effect of facial expression recognition</p>
+<div align=center><img src="./02_Pictures/ExpressionRecognition.jpg"></div>
+<p align="center"><b>Figure 1</b>. The effect of facial expression recognition</p>
 
 ### 2. Voice Control Realization
 
@@ -51,14 +48,14 @@ Speech recognition is realized by LDV5 speech module and FPGA speech sampling, f
 
 ### 3. Full-color Cube Display
 
-![PNG](./02_Pictures/DynamicDisplay.jpg)
-<p align="center"> Figure 2. 3D dynamic display effect diagram of light cube 12*12*12</p>
+<div align=center><img src="./02_Pictures/DynamicDisplay.jpg"></div>
+<p align="center"> <b>Figure 2</b>. 3D dynamic display effect diagram of light cube 12*12*12</p>
 
 ### 4. Overall Realization
 
 After the Raspberry Pi is powered on, turn on the camera to perform dynamic expression recognition. When facial expressions are recognized, background music to adjust emotions is played. At the same time, send instructions to STM32 through Bluetooth communication to control the light cube to display different three-dimensional animations, and cooperate with the playing background music to create a relaxed, comfortable and warm home environment, which can effectively relieve people's mental stress and relieve emotions.
 
-![PNG](./02_Pictures/EmotionCube.jpg)
+<div align=center><img src="./02_Pictures/EmotionCube.jpg"></div>
 <p align="center"> <b>Figure 3</b>. 3D dynamic display effect diagram of light cube 12*12*12</p>
 
 ## How to do it?
@@ -66,11 +63,11 @@ After the Raspberry Pi is powered on, turn on the camera to perform dynamic expr
 
 As shown in Figure 4, the robot system consists of Raspberry Pi and STM32 as the main controller, and sends the expression recognition result to STM32 to control the light cube to display 3D full-color animation. The Raspberry Pi completes the control of the pan/tilt steering gear so that the camera can track the movement of people; Dlib and Numpy are used for face recognition, facial feature point extraction and algorithm normalization processing to complete facial expression recognition. STM32F4 controls the LED lights of the three-dimensional position of the 12-level full-color light cube to display full-color animation, presenting a 3D picture, and enhancing the visual effect. (Refer to Figure 5 for the specific implementation process)
 
-![PNG](./02_Pictures/SystemBlock.jpg)
+<div align=center><img src="./02_Pictures/SystemBlock.jpg"></div>
 <p align="center"> <b>Figure 4</b>. System Block</p>
 
-![PNG](./02_Pictures/ProgramFlowChat.jpg)
-<p align="center"> <b>Figure 5</b>.  </p>
+<div align=center><img src="./02_Pictures/ProgramFlowChat.jpg"></div>
+<p align="center"> <b>Figure 5</b>.  Program Flow Chat</p>
   
   
 ### 2. Dynamic Expression Recognition
@@ -87,7 +84,7 @@ For audio signal processing, we use the LDV5 module for processing. FPGA simulat
 
 Adopt 12 SM16126 serial conversion and strong drive chip cascade to form 144 output port control, input timing control through DateIN data port, carry out PWM modulation, produce RBG color adjustment. Through the host computer of the light cube 3D modeling we designed, we design different animations, mark the 6-bit data of each LED, etc., and finally read each frame of animation of the 12-level light cube in the SD card in DMA mode Realize the full-color animation display of Light Cube.
 
-![PNG](./02_Pictures/Light-Cube.jpeg)
+<div align=center><img src="./02_Pictures/Light-Cube.jpeg"></div>
 
 <br>
 Go to the .doc/.pdf file in Chinese,click <a href="https://github.com/Charmve/Intelligent-Speech-Sompanion-Robot-Based-on-Sentiment-Analysis/tree/master/02_Docs/" target="_blank">here</a>
