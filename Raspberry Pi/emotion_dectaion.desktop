@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name= emotion_dectaion
+Comment=My Python Program
+Exec=python /home/pi/MyProject/dlib-python-test/emotiontest/ emotion_dectaion.py
+Icon=/home/pi/lena.png
+Terminal=flase
+MultipleArgs=flase
+Type=Application
+Categories=Application;Development;
+StartupNotify=ture
