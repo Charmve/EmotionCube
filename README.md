@@ -97,5 +97,28 @@ Go to the .doc/.pdf file in Chinese,click <a href="https://github.com/Charmve/In
 
 <br><br>
 
+## Acknowledgements
 
-* All Rights Reserved ©<a href="https://github.com/Charmve" target="_blank">Charmve</a>
+<p><b>English Version:</b> Here, I would like to thank my partner: Shen Fuzhou, who has been with me to continue this project, and he has also contributed a lot to this project. I am honored to meet such a partner in college. At the same time, I would also like to thank my instructor: Mr. Chen Lei, who provided us with guidance and financial support from the school. Without your help, this project cannot be successfully completed. PS: The whole project took half a year, and it took more than 20 days to weld the entire light cube -_- (Here, I have to thank my roommates and Sun Jiqiao for welding with us!)</p>
+
+<br>
+
+## Notification
+
+<p><b>English Version:</b> Because this project is a funded project, on the one hand, it is open source for public welfare, and on the other hand, it has applied for <a href="https://github.com/Charmve/Design-of-a-3D-Dynamic-Display-System-Based-on-Voice-Control/tree/master/06_Licences" target="_blank">national patents protection 📑</a> for copyright ownership. If you have any commercial use, please contact me.</p>
+
+If you have any questions or idea, please let me know :email: yidazhang1@gmail.com
+
+<br>
+* <i>Update by Sep 27，2020 @<a href="https://github.com/Charmve" target="_blank">Charmve</a>, 
+    <a class="github-button"
+        href="https://github.com/Charmve/Surface-Defect-Detection"
+        data-icon="octicon-star" data-show-count="true"
+        aria-label="Star Charmve/Surface-Defect-Detection on GitHub">Star</a> 
+    and 
+    <a class="github-button"
+        href="https://github.com/Charmve/Surface-Defect-Detection/fork"
+        data-icon="octicon-repo-forked" data-show-count="true"
+        aria-label="Fork Charmve/Surface-Defect-Detection on GitHub">Fork</a>
+</i>
+
