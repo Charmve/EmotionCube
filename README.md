@@ -1,6 +1,7 @@
-# -Intelligent speech companion robot based on sentiment analysis-
+# -Intelligent Speech Companion Robot Based-on Sentiment Analysis-
 
 <p align="center">
+   <a href="https://github.com/Charmve"><img src="https://img.shields.io/badge/github-Charmve-blue" alt="Github"></a>
   <a href="https://github.com/Charmve/Intelligent-Speech-Sompanion-Robot-Based-on-Sentiment-Analysis/blob/master/README.md"><img src="https://img.shields.io/badge/language-English-green" alt="English Version"></a>
   <a href="https://github.com/Charmve/Intelligent-Speech-Sompanion-Robot-Based-on-Sentiment-Analysis/blob/master/%E5%9F%BA%E4%BA%8E%E6%83%85%E7%BB%AA%E5%88%86%E6%9E%90%E7%9A%84%E8%AF%AD%E9%9F%B3%E9%99%AA%E4%BC%B4%E6%9C%BA%E5%99%A8%E4%BA%BA_%E5%88%9B%E6%84%8F%E8%AE%BE%E8%AE%A1%E6%8A%A5%E5%91%8A.pdf"><img src="https://img.shields.io/badge/language-Chinese-red" alt="Chinese Version"></a>
 </p>
