@@ -1,4 +1,4 @@
-# -Intelligent Speech Companion Robot Based-on Sentiment Analysis-
+# Intelligent Speech Companion Robot Based-on Sentiment Analysis
 
 <p align="center">
    <a href="https://github.com/Charmve"><img src="https://img.shields.io/badge/Github-Charmve-blue" alt="Github" target="_blank"></a>
@@ -95,19 +95,31 @@ Adopt 12 SM16126 serial conversion and strong drive chip cascade to form 144 out
 <br>
 Go to the .doc/.pdf file in Chinese,click <a href="https://github.com/Charmve/Intelligent-Speech-Sompanion-Robot-Based-on-Sentiment-Analysis/tree/master/03_Docs" target="_blank">here</a>
 
-<br><br>
+<br>
 
 ## Acknowledgements
 
 <p><b>English Version:</b> Here, I would like to thank my partner: Shen Fuzhou, who has been with me to continue this project, and he has also contributed a lot to this project. I am honored to meet such a partner in college. At the same time, I would also like to thank my instructor: Mr. Chen Lei, who provided us with guidance and financial support from the school. Without your help, this project cannot be successfully completed. PS: The whole project took half a year, and it took more than 20 days to weld the entire light cube -_- (Here, I have to thank my roommates and Sun Jiqiao for welding with us!)</p>
 
-<br>
 
 ## Notification
 
 <p><b>English Version:</b> Because this project is a funded project, on the one hand, it is open source for public welfare, and on the other hand, it has applied for <a href="https://github.com/Charmve/Intelligent-Speech-Sompanion-Robot-Based-on-Sentiment-Analysis/tree/master/04_Licences" target="_blank">national patents protection 📑</a> for copyright ownership. If you have any commercial use, please contact me.</p>
 
 If you have any questions or idea, please let me know :email: yidazhang1@gmail.com
+
+## Citation
+Use this bibtex to cite this repository:
+```
+@misc{EmotionCube,
+  title={Intelligent Speech Companion Robot Based-on Sentiment Analysis},
+  author={Charmve},
+  year={2019.12},
+  publisher={Github},
+  journal={GitHub repository},
+  howpublished={\url{https://github.com/Charmve/Intelligent-Speech-Sompanion-Robot-Based-on-Sentiment-Analysis}},
+}
+```
 
 <br>
 * <i>Update by Sep 27，2020 @<a href="https://github.com/Charmve" target="_blank">Charmve</a>, 
