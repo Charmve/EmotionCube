@@ -10,7 +10,7 @@ Taking emotion analysis and intelligent speech as the research object, in order 
 
 - <p><b>Expression Recognition Camera</b>:RasberryPi 3B+, CameraPi </p>
 - <p><b>Intelligent Voice Module</b>: intelligent speech based on FPGA, Microphone</p>
-- <p><b>Full-color Light-cube Display System</b>: Including power switch circuit, control circuit and cascade drive circuit, and leave enough space to expand subsequent circuits.Especially, this display system come from my another projects: <a href="https://github.com/Charmve/Design-of-a-3D-Dynamic-Display-System-Based-on-Voice-Control" target="_blank">Design-of-a-3D-Dynamic-Display-System-Based-on-Voice-Control</a></p>
+- <p><b>Full-color Light-cube Display System</b>: Including power switch circuit, control circuit and cascade drive circuit, and leave enough space to expand subsequent circuits.Especially, this display system come from my another projects: <a href="https://github.com/Charmve/LightCube-A-Design-of-3D-Dynamic-Display-System-Based-on-Voice-Control" target="_blank">LightCube-A-Design-of-3D-Dynamic-Display-System-Based-on-Voice-Control</a></p>
 
 <div align=center><img src="./02_Pictures/EmotionCube.jpg"></div>
 <p align="center"><b>Emotion Cube</b></p>
