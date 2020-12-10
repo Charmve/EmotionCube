@@ -93,7 +93,7 @@ Adopt 12 SM16126 serial conversion and strong drive chip cascade to form 144 out
 <div align=center><img src="./02_Pictures/Light-Cube.jpeg"></div>
 
 <br>
-Go to the ``.doc/\.pdf`` file in Chinese,click <a href="https://github.com/Charmve/Intelligent-Speech-Sompanion-Robot-Based-on-Sentiment-Analysis/tree/master/03_Docs" target="_blank">here</a>
+Go to the ``.doc/.pdf`` file in Chinese,click <a href="https://github.com/Charmve/Intelligent-Speech-Sompanion-Robot-Based-on-Sentiment-Analysis/tree/master/03_Docs" target="_blank">here</a>
 
 <br>
 
