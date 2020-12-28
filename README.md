@@ -11,7 +11,7 @@
 
 Taking emotion analysis and intelligent speech as the research object, in order to improve the current situation of intelligent furniture robot <b>lack of emotional interaction</b>, an intelligent companion robot is designed based on <b>expression recognition</b> and <b>intelligent speech</b>. The system mainly includes an expression recognition camera, an intelligent voice module, and a full color light cube display system. After actual testing, the system has fast response, high recognition accuracy, stable work, and a good experience, making people's lives more intelligent and user-friendly.
 
-- <p><b>Expression Recognition Camera</b>:RasberryPi 3B+, CameraPi </p>
+- <p><b>Expression Recognition Camera</b>: RasberryPi 3B+, CameraPi </p>
 - <p><b>Intelligent Voice Module</b>: intelligent speech based on FPGA, Microphone</p>
 - <p><b>Full-color Light-cube Display System</b>: Including power switch circuit, control circuit and cascade drive circuit, and leave enough space to expand subsequent circuits.Especially, this display system come from my another projects: <a href="https://github.com/Charmve/LightCube-A-Design-of-3D-Dynamic-Display-System-Based-on-Voice-Control" target="_blank">LightCube - A Design of 3D Dynamic Display System Based-on Voice Control</a></p>
 
