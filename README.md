@@ -1,3 +1,5 @@
+<img src="./02_Pictures/Light-Cube.jpeg" align="right" alt="" width="280"/>
+
 # EmotionCube <br> Intelligent Speech Companion Robot Based-on Sentiment Analysis
 
 <p align="center">
