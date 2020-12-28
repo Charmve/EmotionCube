@@ -1,8 +1,8 @@
-<img src="./02_Pictures/Light-Cube.jpeg" align="right" alt="" width="280"/>
+<img src="./02_Pictures/Light-Cube.jpeg" align="right" alt="EmotionCube" width="280"/>
 
 # EmotionCube <br> Intelligent Speech Companion Robot Based-on Sentiment Analysis
 
-<p align="center">
+<p align="left">
    <a href="https://github.com/Charmve"><img src="https://img.shields.io/badge/Github-Charmve-blue" alt="Github" target="_blank"></a>
   <a href="https://github.com/Charmve/Intelligent-Speech-Sompanion-Robot-Based-on-Sentiment-Analysis/blob/master/README.md" target="_blank"><img src="https://img.shields.io/badge/language-English-green" alt="English Version" ></a>
   <a href="./03_Docs/基于情绪分析的语音陪伴机器人_创意设计报告.pdf" target="_blank"><img src="https://img.shields.io/badge/language-Chinese-red" alt="Chinese Version"></a>
