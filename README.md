@@ -1,6 +1,6 @@
 <img src="./02_Pictures/Light-Cube.jpeg" align="right" alt="EmotionCube" width="280"/>
 
-# EmotionCube <br> Intelligent Speech Companion Robot Based-on Sentiment Analysis
+# EmotionCube 💠 <br> Intelligent Speech Companion Robot Based-on Sentiment Analysis
 
 <p align="left">
    <a href="https://github.com/Charmve"><img src="https://img.shields.io/badge/Github-Charmve-blue" alt="Github" target="_blank"></a>
