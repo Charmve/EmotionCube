@@ -6,7 +6,7 @@
   <a href="https://github.com/Charmve"><img src="https://img.shields.io/badge/GitHub-Charmve-blue" alt="GitHub" target="_blank"></a>
   <a href="https://github.com/Charmve/Intelligent-Speech-Sompanion-Robot-Based-on-Sentiment-Analysis/blob/master/README.md" target="_blank"><img src="https://img.shields.io/badge/language-English-green" alt="English Version" ></a>
   <a href="./03_Docs/基于情绪分析的语音陪伴机器人_创意设计报告.pdf" target="_blank"><img src="https://img.shields.io/badge/language-Chinese-red" alt="Chinese Version"></a>
-  <a href="https://www.youtube.com/watch?v=5ZROSW0DQC4"><img src="https://img.shields.io/badge/Video-YouTube-red" alt="Video" target="_blank"></a>
+  <a href="https://www.youtube.com/watch?v=5ZROSW0DQC4"><img src="https://img.shields.io/badge/Video-YouTube-rightred" alt="Video" target="_blank"></a>
   <a href="https://www.bilibili.com/video/BV1i7411u7CG/"><img src="https://img.shields.io/badge/Video-B站-lightblue" alt="Video" target="_blank"></a>
 </p>
 <br>
