@@ -7,7 +7,7 @@
   <a href="https://www.zhihu.com/people/MaiweiE-com" target="_blank" ><img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-@Charmve-000000.svg?style=flat-square&amp;logo=Zhihu" alt="知乎"/></a>
   <a href="https://www.bilibili.com/video/BV1i7411u7CG/" target="_blank"><img src="https://img.shields.io/badge/B站-@Charmve-000000.svg?style=flat-square&amp;logo=Bilibili" alt="B站"/></a>
   <a href="https://imgconvert.csdnimg.cn/aHR0cHM6Ly9tbWJpei5xcGljLmNuL21tYml6X3BuZy9aTmRoV05pYjNJUkIzZk5ldWVGZEQ4YnZ4cXlzbXRtRktUTGdFSXZOMUdnTHhDNXV0Y1VBZVJ0T0lJa0hTZTVnVGowamVtZUVOQTJJMHhiU0xjQ3VrVVEvNjQw?x-oss-process=image/format,png" target="_blank" ><img src="https://img.shields.io/badge/公众号-@迈微AI研习社-000000.svg?style=flat-square&amp;logo=WeChat" alt="微信公众号"/></a>
-  <a href="./03_Docs/基于情绪分析的语音陪伴机器人_创意设计报告.pdf" target="_blank"><img src="https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-%E8%8B%B1%E6%96%87-000000.svg?style=flat-square&amp;logo=GitBook" alt="Chinese Version"></a>
+  <a href="./03_Docs/基于情绪分析的语音陪伴机器人_创意设计报告.pdf" target="_blank"><img src="https://img.shields.io/badge/简体中文-英文-000000.svg?style=flat-square&amp;logo=GitBook" alt="Chinese Version"></a>
 </p>
 <br>
 
