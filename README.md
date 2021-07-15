@@ -58,6 +58,7 @@ To put it simply, facial expressions are part of the human body's (physical) lan
 Speech recognition is realized by LDV5 speech module and FPGA speech sampling, filtering and recognition. After a long period of debugging and parameter setting, the recognition rate of commonly used sentences is high, and the voice chat function is completed through local semantic analysis and retrieval. Functions such as intelligent voice answering, light music playback, storytelling, and voice-controlled light cube display are now relatively complete, but the voice recognition rate needs to be improved, and the response time needs to be reduced.
 
 ### 3. Full-color Cube Display
+<a href="https://youtu.be/5ZROSW0DQC4"><img src="https://img.shields.io/badge/-YouTube-red?&style=for-the-badge&logo=youtube&logoColor=white" height=20></a>
 
 <div align=center><img src="./02_Pictures/DynamicDisplay.jpg"></div>
 <p align="center"> <b>Figure 2</b>. 3D dynamic display effect diagram of light cube 12*12*12</p>
