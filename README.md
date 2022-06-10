@@ -127,16 +127,21 @@ Use this bibtex to cite this repository:
 }
 ```
 
-<br>
-* <i>Update by Sep 27，2020 @<a href="https://github.com/Charmve" target="_blank">Charmve</a>, 
-    <a class="github-button"
-        href="https://github.com/Charmve/Surface-Defect-Detection"
-        data-icon="octicon-star" data-show-count="true"
-        aria-label="Star Charmve/Surface-Defect-Detection on GitHub">Star</a> 
-    and 
-    <a class="github-button"
-        href="https://github.com/Charmve/Surface-Defect-Detection/fork"
-        data-icon="octicon-repo-forked" data-show-count="true"
-        aria-label="Fork Charmve/Surface-Defect-Detection on GitHub">Fork</a>
-</i>
+## 🚧 **My Related Work: ⬇️**
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![LightCube](https://github-readme-stats.vercel.app/api/pin/?username=Charmve&repo=LightCube)](https://github.com/Charmve/LightCube) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Surface-Defect-Detection](https://github-readme-stats.vercel.app/api/pin/?username=Charmve&repo=Practicum4ECE)](https://github.com/Charmve/Practicum4ECE)
+
+## :heart: Follow me or Sponsor me
+
+> You can find how to contact me in the right sidebar. You can follow me to find something more interesting.
+
+If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 / 🍦 or 🍰 cake at [Charmve Sponsors](https://charmve.github.io/sponsor.html) to support me, click the button. Your name will be shown at [https://charmve.github.io/sponsor.html](https://charmve.github.io/sponsor.html).
+
+<!--START_SECTION:sponsors-->
+<a href="https://charmve.github.io/sponsor.html" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+
+<br>
+
+---
+
+Code with :heart: & :coffee: By Charmve @ 2021
